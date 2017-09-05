@@ -9,7 +9,8 @@
 * Pallavi Premkumar, [pallavikumarp](https://github.com/Pallavikumarp)
 * Junpeng Ren, [Junpeng-Ren]( https://github.com/Junpeng-Ren)
 * Xiaoqian Jia, [xiaoqianjia](https://github.com/xiaoqianjia)
-* Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
+* Mike Chen, [mike410123024](https://github.com/mike410123024)
+* <Jianfeng Song>, [Jianfengusa](https://github.com/Jianfengusa)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
