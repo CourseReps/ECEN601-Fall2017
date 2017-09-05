@@ -5,6 +5,8 @@
 * Qiang Zhang, [Vincent-Zh](https://github.com/Vincent-Zh)
 * Shaowen Zhu, [Shaowen1994](https://github.com/Shawoen1994)
 * Desik Rengarajan, [DesikRengarajan](https://github.com/DesikRengarajan)
+* Haosi Liu, [Billiam0706](https://github.com/Billiam0706)
+
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
