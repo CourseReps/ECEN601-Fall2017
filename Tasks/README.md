@@ -23,3 +23,9 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [PyCharm](https://www.jetbrains.com/pycharm-educational/)
 * [JetBrains Student](https://www.jetbrains.com/student/)
 
+
+## [Task 4](./4task.md): Python Modules
+
+* [NumPy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+
