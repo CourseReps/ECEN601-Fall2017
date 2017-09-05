@@ -6,6 +6,7 @@
 * Shaowen Zhu, [Shaowen1994](https://github.com/Shawoen1994)
 * Desik Rengarajan, [DesikRengarajan](https://github.com/DesikRengarajan)
 * Haosi Liu, [Billiam0706](https://github.com/Billiam0706)
+* Pallavi Premkumar, [pallavikumarp](https://github.com/Pallavikumarp)
 
 ## Teaching Team
 
