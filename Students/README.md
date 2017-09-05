@@ -2,7 +2,7 @@
 
 
 ## Students
-* <Qiang Zhang>, [Vincent-Zh](https://github.com/Vincent-Zh)
+* Qiang Zhang, [Vincent-Zh](https://github.com/Vincent-Zh)
 
 ## Teaching Team
 
