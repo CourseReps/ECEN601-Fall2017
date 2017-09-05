@@ -12,6 +12,7 @@
 * Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
 * Hao Meng, [henrywithu](https://github.com/henrywithu)
 * Jifu Li, [JifuLi](https://github.com/JifuLi)
+* Dengke Zhao, [dkannaheim](https://github.com/dkannaheim)
 
 ## Teaching Team
 
