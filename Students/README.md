@@ -7,7 +7,7 @@
 * Desik Rengarajan, [DesikRengarajan](https://github.com/DesikRengarajan)
 * Haosi Liu, [Billiam0706](https://github.com/Billiam0706)
 * Pallavi Premkumar, [pallavikumarp](https://github.com/Pallavikumarp)
-
+* Junpeng Ren, [Junpeng-Ren]( https://github.com/Junpeng-Ren)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
