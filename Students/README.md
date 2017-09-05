@@ -8,6 +8,7 @@
 * Haosi Liu, [Billiam0706](https://github.com/Billiam0706)
 * Pallavi Premkumar, [pallavikumarp](https://github.com/Pallavikumarp)
 * Junpeng Ren, [Junpeng-Ren]( https://github.com/Junpeng-Ren)
+* Xiaoqian Jia, [xiaoqianjia](https://github.com/xiaoqianjia)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
