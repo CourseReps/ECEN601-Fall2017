@@ -10,6 +10,7 @@
 * Junpeng Ren, [Junpeng-Ren]( https://github.com/Junpeng-Ren)
 * Xiaoqian Jia, [xiaoqianjia](https://github.com/xiaoqianjia)
 * Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
+* Mike Chen, [mike410123024](https://github.com/mike410123024) 
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
