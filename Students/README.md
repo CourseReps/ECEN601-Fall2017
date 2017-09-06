@@ -13,6 +13,7 @@
 * Ruiwan Xu, [ruiwan1996](https://github.com/ruiwan1996)
 * Yaqi Sun, [EmerySun](https://github.com/EmerySun)
 * Xuezhang Wu, [Brickhoff](https://github.com/Brickhoff)
+* Jifu Li, [JifuLi](https://github.com/JifuLi)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
