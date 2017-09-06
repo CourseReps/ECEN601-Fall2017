@@ -15,6 +15,7 @@
 * Xuezhang Wu, [Brickhoff](https://github.com/Brickhoff)
 * Jifu Li, [JifuLi](https://github.com/JifuLi)
 * Mike Chen, [mike410123024](https://github.com/mike410123024) 
+* Anrui Liang, [539961733](https://github.com/539961733)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
