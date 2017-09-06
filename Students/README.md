@@ -11,7 +11,6 @@
 * Xiaoqian Jia, [xiaoqianjia](https://github.com/xiaoqianjia)
 * Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
 * Hao Meng, [henrywithu](https://github.com/henrywithu)
-* Jifu Li, [JifuLi](https://github.com/JifuLi)
 * Dengke Zhao, [dkannaheim](https://github.com/dkannaheim)
 * Shixiong Xie, [Dwyane23](https://github.com/Dwyane23)
 
