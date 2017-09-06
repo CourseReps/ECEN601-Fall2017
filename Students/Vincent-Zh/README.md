@@ -1,5 +1,5 @@
 # Identity
 
-* Name: Qiang-Zhang
+* Name: Qiang Zhang
 * GitHubID: Vincent-Zh
 * NetID: zhangqiang
