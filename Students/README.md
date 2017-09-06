@@ -12,6 +12,7 @@
 * Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
 * Ruiwan Xu, [ruiwan1996](https://github.com/ruiwan1996)
 * Yaqi Sun, [EmerySun](https://github.com/EmerySun)
+* Xuezhang Wu, [Brickhoff](https://github.com/Brickhoff)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
