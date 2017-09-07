@@ -27,6 +27,7 @@
 * Mahesh Kodihalli Chandrashekaraiah, [maheshkc](https://github.com/Maheshkc)
 * Bohuai Jiang, [jiangbohuaijpwz](http://github.com/jiangbohuaijpwz)
 * Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
+* Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
