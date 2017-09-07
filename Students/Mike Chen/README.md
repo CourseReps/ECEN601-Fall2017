@@ -1,5 +1,5 @@
 # Identity
 
 <br>Name: Mike Chen </br>
-GitHubID: mike410123024
-NetID: Mike830918
+<br>GitHubID: mike410123024 </br>
+<br>NetID: Mike830918 </br>
