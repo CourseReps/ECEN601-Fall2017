@@ -23,6 +23,7 @@
 * Sichu Liu, [hehe0liusichu0](https://github.com/sichuLiu)
 * Peihong Tang, [longlong3d](https://github.com/longlong3d)
 * Kunyuan Zhang, [gavindoudou](https://github.com/gavindoudou)
+* Pengchao Lian, [plian613](https://github.com/plian613)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
