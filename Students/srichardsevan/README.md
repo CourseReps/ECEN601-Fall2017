@@ -2,4 +2,4 @@
 
 * Name: Evan Richards
 * GitHubID: srichardsevan
-* NetID: srichardsevan
+* NetID: richardsevan
