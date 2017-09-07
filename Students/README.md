@@ -18,6 +18,7 @@
 * Anrui Liang, [539961733](https://github.com/539961733)
 * Matthew Grogan, [mdgrogan](https://github.com/mdgrogan)
 * Hao Meng, [Henrywithu](https://github.com/Henrywithu)
+* Rachel Hsingtze Yeh, [rachelhyeh](https://github.com/rachelhyeh)
 
 ## Teaching Team
 
