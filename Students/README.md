@@ -17,6 +17,8 @@
 * Mike Chen, [mike410123024](https://github.com/mike410123024) 
 * Anrui Liang, [539961733](https://github.com/539961733)
 * Matthew Grogan, [mdgrogan](https://github.com/mdgrogan)
+* Hao Meng, [Henrywithu](https://github.com/Henrywithu)
+
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
