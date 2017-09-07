@@ -26,7 +26,7 @@
 * Pengchao Lian, [plian613](https://github.com/plian613)
 * Mahesh Kodihalli Chandrashekaraiah, [maheshkc](https://github.com/Maheshkc)
 * Bohuai Jiang, [jiangbohuaijpwz](http://github.com/jiangbohuaijpwz)
-* Shahana Ibrahim, [shahanaibrahim] (http://github.com/shahanaibrahim)
+* Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
