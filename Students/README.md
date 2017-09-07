@@ -21,6 +21,7 @@
 * Evan Richards, [srichardsevan](https://github.com/srichardsevan)
 * Rachel Hsingtze Yeh, [rachelhyeh](https://github.com/rachelhyeh)
 * Sichu Liu, [hehe0liusichu0](https://github.com/sichuLiu)
+* Peihong Tang, [longlong3d](https://github.com/longlong3d)
 
 ## Teaching Team
 
