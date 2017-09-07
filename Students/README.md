@@ -19,6 +19,7 @@
 * Matthew Grogan, [mdgrogan](https://github.com/mdgrogan)
 * Hao Meng, [Henrywithu](https://github.com/Henrywithu)
 * Rachel Hsingtze Yeh, [rachelhyeh](https://github.com/rachelhyeh)
+* Sichu Liu, [hehe0liusichu0](https://github.com/sichuLiu)
 
 ## Teaching Team
 
