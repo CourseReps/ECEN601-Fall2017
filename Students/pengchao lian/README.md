@@ -1,5 +1,5 @@
 # Identity
 
-* Name: <Pengchao Lian>
-* GitHubID: <plian613>
-* NetID: <plian>
+* Name: Pengchao Lian
+* GitHubID: plian613
+* NetID: plian
