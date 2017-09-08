@@ -28,6 +28,8 @@
 * Bohuai Jiang, [jiangbohuaijpwz](http://github.com/jiangbohuaijpwz)
 * Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
 * Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
+* Dennis Kim, [kdm01240](http://github.com/kdm01240)
+
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
