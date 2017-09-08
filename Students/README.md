@@ -24,6 +24,14 @@
 * Peihong Tang, [longlong3d](https://github.com/longlong3d)
 * Kunyuan Zhang, [gavindoudou](https://github.com/gavindoudou)
 * Mahesh Kodihalli Chandrashekraiah, [maheshkc](https://github.com/maheshkc)
+* Pengchao Lian, [plian613](https://github.com/plian613)
+* Mahesh Kodihalli Chandrashekaraiah, [maheshkc](https://github.com/Maheshkc)
+* Bohuai Jiang, [jiangbohuaijpwz](http://github.com/jiangbohuaijpwz)
+* Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
+* Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
+* Dennis Kim, [kdm01240](http://github.com/kdm01240)
+
+
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
