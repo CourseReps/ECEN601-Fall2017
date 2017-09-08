@@ -29,7 +29,7 @@
 * Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
 * Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
 * Dennis Kim, [kdm01240](http://github.com/kdm01240)
-* Shixiong Xie, Dwyane23 (http://github.com/Dwyane23)
+* Shixiong Xie, [Dwyane23] (http://github.com/Dwyane23)
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
