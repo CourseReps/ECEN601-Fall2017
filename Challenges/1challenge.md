@@ -1,7 +1,7 @@
 # Challenge 1
 The purpose of Challenge 1 is to gain experience with computing in Python, as it pertains to vector space methods.
 This challenge assumes that you are already familiar with [Python](https://www.python.org/), and you have a working development environment.
-You should also be familiar with the [Git](https://git-scm.com/) and [GitHub](https://github.com/).
+You should also be versed in using [Git](https://git-scm.com/) and [GitHub](https://github.com/).
 
 ## SciPy
 [SciPy](https://scipy.org/) is a Python-based collection of open-source software for mathematics, science, and engineering.
