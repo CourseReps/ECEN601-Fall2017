@@ -29,6 +29,8 @@
 * Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
 * Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
 * Dennis Kim, [kdm01240](http://github.com/kdm01240)
+* Sai Swaroop Yeddulapalli, [swaroop_8](http://github.com/swaroop8)
+
 
 ## Teaching Team
 
