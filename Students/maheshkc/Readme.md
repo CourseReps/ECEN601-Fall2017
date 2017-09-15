@@ -1,8 +1,7 @@
 *Identity
 
-#Name: Mahesh Kodihalli Chandrashekaraiah
+*Name: Mahesh Kodihalli Chandrashekaraiah
 
-#GithubID: maheshkc
+*GithubID: maheshkc
 
-#UIN: 423009467
-
+*UIN: 423009467
