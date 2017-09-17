@@ -31,7 +31,7 @@
 * Dennis Kim, [kdm01240](http://github.com/kdm01240)
 * Sai Swaroop Yeddulapalli, [swaroop_8](http://github.com/swaroop8)
 * Ashvin Shenoy Renjal, [ashvin-shenoy](http://github.com/ashvin-shenoy)
-
+* Narges Zarnaghinaghsh, [nzarnaghi](http://github.com/nzarnaghi)
 
 ## Teaching Team
 
