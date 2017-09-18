@@ -1,4 +1,4 @@
 # Identity
 * Name: Rui Nie
-* GitHubID: ruinir666 
+* GitHubID: ruinie666 
 * NetID: 626008378
