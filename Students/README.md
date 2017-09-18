@@ -32,6 +32,7 @@
 * Sai Swaroop Yeddulapalli, [swaroop_8](http://github.com/swaroop8)
 * Ashvin Shenoy Renjal, [ashvin-shenoy](http://github.com/ashvin-shenoy)
 * Narges Zarnaghinaghsh, [nzarnaghi](http://github.com/nzarnaghi)
+* Ziyu Jiang, [geekJZY](http://github.com/geekJZY)
 
 ## Teaching Team
 
