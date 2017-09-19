@@ -33,6 +33,7 @@
 * Ashvin Shenoy Renjal, [ashvin-shenoy](http://github.com/ashvin-shenoy)
 * Narges Zarnaghinaghsh, [nzarnaghi](http://github.com/nzarnaghi)
 * Ziyu Jiang, [geekJZY](http://github.com/geekJZY)
+* Amrita Sundari V, [amrita95](https://github.com/amrita95)
 
 ## Teaching Team
 
