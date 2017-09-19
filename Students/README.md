@@ -34,6 +34,7 @@
 * Narges Zarnaghinaghsh, [nzarnaghi](http://github.com/nzarnaghi)
 * Ziyu Jiang, [geekJZY](http://github.com/geekJZY)
 * Amrita Sundari V, [amrita95](https://github.com/amrita95)
+* Archana Bura, [archana-iisc] (https://github.com/archana-iisc)
 
 ## Teaching Team
 
