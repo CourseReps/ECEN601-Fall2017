@@ -1,7 +1,7 @@
 # identity
 
-*Name:Sichu Liu
+* Name: Sichu Liu
 
-*GitHubID:sichuLiu
+* GitHubID: sichuLiu
 
-*NetID:hehe0liusichu0
+* NetID: hehe0liusichu0
