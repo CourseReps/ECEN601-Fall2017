@@ -37,7 +37,7 @@
 * Archana Bura, [archana-iisc] (https://github.com/archana-iisc)
 * Shixiong Xie, [Dwyane23](https://github.com/Dwyane23)
 * Dengke Zhao, [dkannaheim](https://github.com/dkannaheim)
-
+* Chiranjeev Ghosh, [chiranjeevghosh](https://github.com/chiranjeevghosh)
 
 ## Teaching Team
 
