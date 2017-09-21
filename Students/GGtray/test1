@@ -1,0 +1,43 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.optimize import minimize_scalar
+
+
+# define function f,g
+def g(t):
+    return 1 - (np.exp(-2 * t) * np.cos(np.pi * t))
+
+
+def f(a, t):
+    return 1 - (np.exp(-a * t))
+
+
+t1 = np.arange(0.0, 2.0, 0.01)
+
+
+# Find the value of a and the resident mean square error
+def find_a(a):
+    square_error = 0
+    for t in (t1):
+        square_error = square_error + np.square(g(t)-f(a,t))
+    return np.sqrt(square_error)
+
+mina = minimize_scalar(find_a)
+length=len(t1)
+mean_squ_err = np.square(find_a(mina.x))/length
+
+print("the minimum a is %f "%mina.x)
+print("the resident mean square error is %f" %mean_squ_err)
+
+#the picture that shows how square_error change when a change
+plt.figure(1)
+a1=np.arange(1,100,0.1)
+plt.plot(a1,find_a(a1))
+plt.xlabel("a")
+plt.ylabel("L2")
+plt.show()
+
+
+
+
+
