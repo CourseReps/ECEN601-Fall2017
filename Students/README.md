@@ -38,6 +38,7 @@
 * Shixiong Xie, [Dwyane23](https://github.com/Dwyane23)
 * Dengke Zhao, [dkannaheim](https://github.com/dkannaheim)
 * Chiranjeev Ghosh, [chiranjeevghosh](https://github.com/chiranjeevghosh)
+* Lizi Zhang, [GGtray](https://github.com/GGtray)
 
 ## Teaching Team
 
