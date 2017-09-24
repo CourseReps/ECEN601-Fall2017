@@ -34,6 +34,11 @@
 * Narges Zarnaghinaghsh, [nzarnaghi](http://github.com/nzarnaghi)
 * Ziyu Jiang, [geekJZY](http://github.com/geekJZY)
 * Amrita Sundari V, [amrita95](https://github.com/amrita95)
+* Archana Bura, [archana-iisc] (https://github.com/archana-iisc)
+* Shixiong Xie, [Dwyane23](https://github.com/Dwyane23)
+* Dengke Zhao, [dkannaheim](https://github.com/dkannaheim)
+* Chiranjeev Ghosh, [chiranjeevghosh](https://github.com/chiranjeevghosh)
+* Lizi Zhang, [GGtray](https://github.com/GGtray)
 
 ## Teaching Team
 
